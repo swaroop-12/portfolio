@@ -22,10 +22,12 @@
     text-align: center;
   }
   
-  header > .title {
+  .header >.title {
     margin-bottom: 1rem;
   }
-  
+.header >.description{
+    color:white;
+}
   .tribute {
     display: grid;
     grid-template-columns: 2fr 1fr;
